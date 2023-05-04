@@ -22,7 +22,7 @@
 
 - :mailbox: Message me through GitHub, LinkedIn or email!
 
-- :globe_with_meridians: Check my [website](http://www.breaktools.info) for more info
+- :globe_with_meridians: Check my [website](https://www.breaktools.info) for more info
 
 ---
 
