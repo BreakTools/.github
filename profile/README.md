@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/63094424/236157574-bd2cdd42-072c-4d78-940e-5fb0f42cbcc6.svg" />
+
 <h3 align="center">Welcome to the BreakTools GitHub page, the central location for all software, plugins and other tools developed by Mervin van Brakel </h3> 
   
 <div id="badges" align="center">
