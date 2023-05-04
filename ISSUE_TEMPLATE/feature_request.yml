@@ -1,0 +1,23 @@
+name: ✨Feature request
+description: Request a new feature or enhancement.
+labels: ["enhancement"]
+title: "[FEAT]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to write up a suggestion! I'm looking forward to reading it :)
+  
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Please provide a brief description of the feature or enhancement you would like to see.
+    validations:
+      required: true
+      
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional Information
+      description: Feel free to provide some additional information like similar examples, links, screenshots, design mockups, etc.
