@@ -22,8 +22,6 @@
 
 - :mailbox: Message me through GitHub, LinkedIn or email!
 
-- :globe_with_meridians: Check my [website](https://www.breaktools.info) for more info
-
 ---
 
 ### Languages and technologies:
