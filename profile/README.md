@@ -23,6 +23,9 @@
 - :mailbox: Message me through GitHub, LinkedIn or email!
 
 ---
+Here on the BreakTools GitHub you'll find my own repositories, as well as forks of the repositories I made on my [school's GitHub organization](https://github.com/nfa-vfxim).
+
+---
 
 ### Languages and technologies:
 <div>
