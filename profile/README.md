@@ -14,16 +14,16 @@
 ---
 ### About Mervin:
 
-- :gear: I am a Pipeline/TD student from the Netherlands
+- :gear: I am a Creative Technologist from the Netherlands
 
-- :wrench: I love combining technologies to create artist friendly workflows
+- :wrench: I love combining technologies to create new creative workflows
 
-- :cocktail: I'm also a craft cocktail bartender, so feel free to share your drink recipes with me :)
+- :performing_arts: I'm also an actor, signer and event host
 
 - :mailbox: Message me through GitHub, LinkedIn or email!
 
 ---
-Here on the BreakTools GitHub you'll find my own repositories, as well as forks of the repositories I made on my [school's GitHub organization](https://github.com/nfa-vfxim).
+Here on the BreakTools GitHub you'll find my own repositories, as well as forks of the repositories I made on [the Netherlands Filmacademy's GitHub organization](https://github.com/nfa-vfxim).
 
 ---
 
