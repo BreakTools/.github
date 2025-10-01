@@ -14,9 +14,9 @@
 ---
 ### About Mervin:
 
-- :gear: I am a Creative Technologist from the Netherlands
+- :gear: I am a software developer from the Netherlands
 
-- :wrench: I love combining technologies to create new creative workflows
+- :wrench: I love combining technologies to create new automated workflows
 
 - :performing_arts: I'm also an actor, signer and event host
 
