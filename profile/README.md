@@ -16,7 +16,7 @@
 
 - :gear: I am a software developer from the Netherlands
 
-- :wrench: I love combining technologies to create new automated workflows
+- :wrench: I love solving complex problems through creative use of technology
 
 - :performing_arts: I'm also an actor, signer and event host
 
